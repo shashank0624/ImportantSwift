@@ -14,6 +14,7 @@
 		8ABA54C42000EBD100291737 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ABA54C22000EBD100291737 /* LaunchScreen.storyboard */; };
 		8ABA54CF2000EBD100291737 /* ImportantSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABA54CE2000EBD100291737 /* ImportantSwiftTests.swift */; };
 		8ABA54DA2000EBD100291737 /* ImportantSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABA54D92000EBD100291737 /* ImportantSwiftUITests.swift */; };
+		8ABA54E82000ED3600291737 /* Concepts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABA54E72000ED3600291737 /* Concepts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8ABA54D52000EBD100291737 /* ImportantSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImportantSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ABA54D92000EBD100291737 /* ImportantSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportantSwiftUITests.swift; sourceTree = "<group>"; };
 		8ABA54DB2000EBD100291737 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8ABA54E72000ED3600291737 /* Concepts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Concepts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				8ABA54B92000EBD000291737 /* AppDelegate.swift */,
 				8ABA54BB2000EBD000291737 /* ViewController.swift */,
+				8ABA54E72000ED3600291737 /* Concepts.swift */,
 				8ABA54BD2000EBD100291737 /* Main.storyboard */,
 				8ABA54C02000EBD100291737 /* Assets.xcassets */,
 				8ABA54C22000EBD100291737 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				8ABA54BC2000EBD000291737 /* ViewController.swift in Sources */,
 				8ABA54BA2000EBD000291737 /* AppDelegate.swift in Sources */,
+				8ABA54E82000ED3600291737 /* Concepts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
